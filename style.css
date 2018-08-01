@@ -1,0 +1,273 @@
+
+*{
+
+margin:0;
+padding:0;
+
+}
+
+
+
+body{
+	background-image: url('./image/coffeepic.jpg'); 
+
+}
+#navbar{
+    width: 100%;
+    height: 170px;
+    background-color: black;
+    color: white;
+
+}
+
+
+
+.slogan{
+
+	position: absolute;
+	width:900px;
+	top:30%;
+	left:65%;
+	transform: translate(-50%,-50%);
+	margin-top: 80px
+}
+
+.main-nav {  
+  list-style: none;
+  float: right;
+  margin-top: 1px;
+}
+  
+ .main-nav li {
+	display: inline-block; 
+ 	margin-left:20px;
+ }
+ 
+ .main-nav li {
+
+
+ 	display: inline-block; 
+ 	margin-left:20px;
+ }
+
+
+
+
+ .main-nav li a {
+
+ 	color: white;
+ 	text-decoration: none;
+ 	font-size: 100%;
+ 	font-weight: bold;
+ 	margin-top: 50px;
+ }
+ 
+  .main-nav li a:hover {
+  	color: #8B0000;
+  	border-bottom:2px solid #8B0000;
+  	transition: all 0.5s ease-in;
+  	text-decoration: none;
+
+
+  	
+  }
+
+  h1 {
+	text-align: center;
+  	font-size: 85px
+
+
+  }
+
+
+  h2 {
+
+  	font-size: 30px;
+  }
+
+  .btn{
+  	background-color: black;
+    border: 5px solid #708090;
+    padding: 10px 30px;
+    color: #708090 ;
+    text-decoration: none;
+    border-radius: 12px;
+    margin-right: 69px;
+   
+
+    }
+
+    .button-butts{
+    	margin-top: 30px;
+
+
+    }
+
+    .btn-full{
+
+    	margin-right: 20px;
+
+
+    }
+    .hmlg {
+
+      margin-right: 100px;
+
+
+    }
+
+    .hmtitle{
+		font-size:39px;
+    	margin-right: 1500px;
+
+
+
+
+    }
+/*come back to this and fix alignment and margin*/ 
+    .greet li a{
+   margin-right: 1500px;
+   	margin-bottom: 10px;
+    color: white;
+    text-decoration: none;
+ 	font-size: 100%;
+ 	font-weight: bold;
+ 
+
+
+}
+.form-signin-heading{
+	color:white;
+	position: absolute;
+	width:900px;
+	top:14%;
+	left:27%;
+	
+	margin-top: 80px
+
+}
+.registering-heading{
+	color:white;
+	position: absolute;
+	width:900px;
+	top:3%;
+	left:47%;
+	
+	margin-top: 80px;
+
+
+
+}
+
+.menu-heading{
+	color:white;
+	position: absolute;
+	width:900px;
+	top:05%;
+	left:44%;
+	
+	margin-top: 80px;
+
+
+
+}
+.btn a{
+  margin-left: 30px;
+
+}
+
+#container{
+
+border-radius: 2px;
+
+}
+table{
+	background: white;
+	border-radius: 10px;
+	width: 200px;
+	resize:both;
+	overflow: auto;
+}
+
+.menubtn{
+    background-color: black;
+    border: 5px solid #708090;
+    padding: 10px 30px;
+    color: #708090 ;
+    border-radius: 12px;
+    margin-right: 69px;
+
+
+}
+
+.cartbtn{
+ background-color: black;
+    border: 5px solid #708090;
+    padding: 10px 30px;
+    color: #708090 ;
+    border-radius: 12px;
+    margin-right: 20px;
+
+}
+#carttitle{
+color: white; 
+}
+#pendorders{
+color: white; 
+}
+#menutitle{
+color: white; 
+
+}
+#carttitle{
+color: white;
+
+}
+
+#welcometitle{
+color: white;
+}
+
+
+.contshpbtn{
+   background-color: black;
+    border: 5px solid #708090;
+    padding: 10px 30px;
+    color: #708090 ;
+    border-radius: 12px;
+    margin-right: 10%;
+
+
+
+}
+.submitbtn{
+    background-color: black;
+    border: 5px solid #708090;
+    width:200px;
+    padding: 10px 30px;
+    color: #708090 ;
+    border-radius: 12px;
+    margin-right: 20%;
+
+
+}
+
+.table-responsive{
+
+	width: 70%;
+  /*height: 654px*/;
+	margin-left: 19%;
+	margin-top: 15%;
+
+
+
+}
+
+.dropdown-toggle{
+ margin-left: 1%;
+
+
+
+
+
+}
